@@ -3,8 +3,6 @@
 using namespace std;
 
 int main() {
-  int q, i;
-  bool flag = false;
 
   cout << "Size of char:" << sizeof(char);
   cout << "\nSize of int:" << sizeof(int);
